@@ -3,7 +3,7 @@
 
 ## How to install (DEFAULT or BASIC USAGE)
 	* git clone https://github.com/mr13390/igyudhakobex
-	* cd instatools
+	* cd igyudhakobex
 	* unzip node_modules.zip
 	* ls
 	* Then select the tool you want to use!
@@ -29,7 +29,7 @@
 	* pkg install git
 	* pkg install nodejs
 	* git clone https://github.com/mr13390/igyudhakobex
-	* cd instatools
+	* cd igyudhakobex
 	* unzip node_modules.zip
 	* ls
 	* Then select the tool you want to use!
@@ -47,7 +47,7 @@
 
 	=========== Basic Usage ==============
 	* git clone https://github.com/mr13390/igyudhakobex
-	* cd instatools
+	* cd igyudhakobex
 	* unzip node_modules.zip
 	* ls
 	* Then select the tool you want to use!
